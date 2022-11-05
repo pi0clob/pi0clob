@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Header
+![Header](https://github.com/pi0clob/pi0clob/blob/main/Assets/HeaderPic.jpg)
 
 About me
 
