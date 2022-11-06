@@ -1,10 +1,9 @@
-### Hi there 👋
-
 <!--
 **pi0clob/pi0clob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+IDK what is happening now...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](https://github.com/pi0clob/pi0clob/blob/main/Assets/HeaderPic.jpg)
+![Header](https://github.com/pi0clob/pi0clob/blob/main/Assets/HeaderPic.png)
 
 ## Experience without work
 
