@@ -27,3 +27,7 @@ IDK what is happening now...
 ![Figma](https://img.shields.io/badge/-Figma-fafafa?style=for-the-badge&logo=figma&logoColor=4f24e3)
 
 Studying
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pi0clob)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pi0clob&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
