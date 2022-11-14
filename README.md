@@ -38,13 +38,13 @@ Familiar with dynamic programming. I used Python for this kind of activity.
 
 I enrolled in courses on mobile development (Samsung IT-school) and started programming in Java.
 I gained experience using the framework - the game engine for Java - libGDX, 
-using which I wrote the ![project](https://github.com/pi0clob/Extract_game).
+using which I wrote the [project](https://github.com/pi0clob/Extract_game).
 
 Now I'm interested in mobile development. 
 The most priority tools, as for me, are kotlin with jetpack compose.
 I'm looking for a job, where I would have the opportunity to get 
 important experience in the field of current technologies.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pi0clob)](https://github.com/anuraghazra/github-readme-stats)
+[![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=pi0clob)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pi0clob&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pi0clob&layout=compact)]()
