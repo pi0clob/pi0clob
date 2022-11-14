@@ -45,6 +45,7 @@ The most priority tools, as for me, are kotlin with jetpack compose.
 I'm looking for a job, where I would have the opportunity to get 
 important experience in the field of current technologies.
 
-![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=pi0clob)
+<!--
+![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=pi0clob) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pi0clob&layout=compact)
