@@ -43,7 +43,7 @@ using which I wrote the [project](https://github.com/pi0clob/Extract_game).
 Now I'm interested in mobile development. 
 The most priority tools, as for me, are kotlin with jetpack compose.
 I'm looking for a job, where I would have the opportunity to get 
-important experience in the field of current technologies.
+important experience in the field of modern technologies.
 
 <!--
 ![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=pi0clob) -->
